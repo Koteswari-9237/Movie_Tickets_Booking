@@ -289,9 +289,7 @@ void main(){
                                  case 61 ... 70:
                                     printf("You booked a ticket in last  row");
                                     break;
-                            }
-                           
-                        
+                            }   
                     }
                     else if(seatcount==3){
                             printf("***Seat numbers***\n");
@@ -327,9 +325,7 @@ void main(){
                                  case 61 ... 70:
                                     printf("You booked a ticket in last  row");
                                     break;
-                            }
-                        
-                        
+                            } 
                       }
                           else if(seatcount==4){
                             printf("***Seat numbers***\n");
